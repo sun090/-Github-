@@ -1,0 +1,73 @@
+.title18{background: white;width: 1366px;height:18px;}
+.box1{display:flex; }
+.box1_1{display:flex; } 
+.box1_2{display:flex; font-size: 21px;}
+.box01{background:white;width:70px;}
+.box11{background:white; width:220px;}
+.box12{background:gwhite;width:50px;}
+.box13{background:white;width:120px;height:40px}
+.image_a{position:relative;display: inline-block;}
+.image_a_text{position:absolute;top:190px;text-align:center;color:white;
+    font-size:45px;width:100%;} 
+ .image_a_text2{position:absolute;bottom:190px;text-align:center;color:white;
+    font-size:30px;width:100%;}
+.box20{background:transparent;height:30px;width:115px;}
+.box26{background:transparent;height:16px;width:115px;}
+.about{color:#ffd61a;font-size:20px;text-align: center;}
+.about_sub{color:black;font-size:18px;text-align: center;}
+.about_text{font-size:16px;text-align: center;}
+.box21{background:transparent;height:40px;width:30px;}
+.flex_box2{display:flex;width:1366px;justify-content: center}
+
+.flex_box3{display:flex;justify-content:center;}
+.flex_box4{display:flex;justify-content:left;height: 20px;}
+.box22{background:transparent;height:20px;width:265px;}
+.flex_box5{display:flex;justify-content:left;}
+.box23{background:transparent;height:24px;width:180px;}
+.box24{background:transparent;height:30px;width:45px;}
+.box21{background:transparent;height:40px;width:30px;}
+.box25{background:transparent;height:30px;width:29px;}
+.news_1{font-size:15px;color:black;}
+.box_more{background: rgb(175, 175, 2);height: 60px;width: 300px;position: relative;left:7px; text-align: center;}
+.more_text{position: relative;top:17px;color:white;text-align: center;font-size:18px;}
+.map_bg{background: rgb(231, 229, 229);height: 904px;width: 1366px;position: center;}
+.access_t{font-size:18px;color:black;text-align: center;}     
+.access_t2{font-size:16px;color:black;text-align: center;}
+.name_box{display: flex;}
+ 
+.access_t3{position:absolute;top:3030px;left:495px;font-size: 16px;}
+.access_t31{position:absolute;top:3090px;left:495px;font-size: 16px;}
+.access_t32{position:absolute;top:3120px;left:495px;font-size: 16px;}
+.access_t33{position:absolute;top:3150px;left:495px;font-size: 16px;}
+.access_t34{position:absolute;top:3180px;left:495px;font-size: 16px;}
+.access_t4{position:absolute;top:3030px;left:645px;font-size: 16px;}
+.access_t41{position:absolute;top:3090px;left:645px;font-size: 16px;}
+.access_t42{position:absolute;top:3120px;left:645px;font-size: 16px;}
+.access_t43{position:absolute;top:3150px;left:645px;font-size: 16px;}
+.access_t44{position:absolute;top:3180px;left:645px;font-size: 16px;}
+.map_bgunder{background: rgb(231, 229, 229);height: 60px;width: 1366px;position: center;}
+.contact_t{position:absolute;top:3315px;left:683px;font-size: 18px;}
+.contact_t1{position:absolute;top:3367px;left:610px;font-size: 16px;}
+.contact_t2{position:absolute;top:3447px;left:535px;font-size: 16px;}
+.contact_t3{position:absolute;top:3468px;left:500px;font-size: 16px;}
+.contact_t4{position:absolute;top:3523px;left:575px;font-size: 16px;}
+.contact_t5{position:absolute;top:3543px;left:555px;font-size: 16px;}
+.box_contact{background:white;height: 279px; position: abusolute;top:3529;}
+.box_form{background:#bfbfbf;height: 3px;width: 500px;position: relative;left:483px; }
+.box_form2{background:#e0dfdf;height: 1px;width: 500px;position: relative;left:483px; }
+.box_form3{background:#bfbfbf;height: 1px;width: 500px;position: relative;left:483px; top:10px;}
+.boxx24px{background: transparent;height:24px;width:10px;}
+.formbox{width:600px;}
+dt{margin-left:200;width: 150px;position:absolute;left:500px;height: 60px;font-size:13px;}
+dd{margin-left: 679px;width:600px;font-size:12px;}
+.input{width: 200px;}
+.box_send{background: rgb(175, 175, 2);height: 60px;width: 300px;position: absolute;left:600px; }
+.sendunder{background: transparent;height:140px;width:1366px;position: relative;left:-600px;}
+.copyright_box {background: #707070;height: 82px;width:1366px;position: relative;left:-600px;text-align:left;}
+.send_text{color:white;text-align: center;font-size:18px;position: relative;top:17px;}
+
+#footer{background: #707070;height: 82px;width:1366px;position: relative;left:-600px;text-align:center;line-height: 30px;}
+.copyright_text{position: relative;top:30px;color:white;font-size:16px;text-align: center}
+.copyright_text2{position: relative;top:27px;color:white;font-size:16px;}
+
+
